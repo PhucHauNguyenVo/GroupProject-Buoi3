@@ -1,2 +1,1 @@
-task cua Tinh
-cap nhat noi dung moi
+ file mới của tinh
