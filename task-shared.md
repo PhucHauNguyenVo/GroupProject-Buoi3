@@ -1,1 +1,3 @@
-task shared của tinh
+
+task shared cua nguyen va tinh
+
